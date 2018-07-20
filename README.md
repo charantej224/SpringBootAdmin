@@ -1,0 +1,2 @@
+# SpringBootAdmin
+admin monitoring apps
